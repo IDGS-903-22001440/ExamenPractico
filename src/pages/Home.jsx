@@ -15,7 +15,7 @@ export default function Home() {
         <div className="row justify-content-center align-items-center text-center g-4">
           <div className="col-6 col-md-4 col-lg-3">
             <img
-              src="/public/icons/logoutl.png"
+              src="/icons/logoutl.png"
               alt="Logo 1"
               className="img-fluid rounded shadow-sm"
               style={{ maxHeight: "200px", objectFit: "contain" }}

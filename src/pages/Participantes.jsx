@@ -106,7 +106,7 @@ export default function Participantes() {
                   <div className="card participant-card h-100 border-0 shadow-sm">
                     <div className="card-body text-center">
                       <img
-                        src={`/public/avatars/${p.avatar}.png`}
+                        src={`/avatars/${p.avatar}.png`}
                         alt={`${p.nombre} ${p.apellidos}`}
                         className="rounded-circle mb-3"
                         style={{
